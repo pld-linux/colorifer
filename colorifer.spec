@@ -8,7 +8,7 @@ License:	GPL
 Group:		Applications/Text
 URL:		http://colorifer.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/colorifer/colorifer/%{version}%{subver}/%{name}-%{version}%{subver}.tar.bz2
-# Source0-md5:	ff478e218d64dd37064dfc47a9429a76
+# Source0-md5:	77cb15b802cb9d1837a34db6b689d8a8
 BuildRequires:	boost-devel
 BuildRequires:	help2man
 BuildRequires:	libstdc++-devel
